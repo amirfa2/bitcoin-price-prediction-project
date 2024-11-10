@@ -69,7 +69,8 @@ Tableau Dashboard Overview:
 Conclusion:
 
 
-The comparative analysis and prediction models reveal the stark contrasts between Bitcoin and Apple’s market behaviors. Apple’s stable growth and deep market make it attractive to traditional, risk-averse investors, while Bitcoin’s high volatility and rapid growth appeal to those willing to engage in a high-risk, high-reward environment. This repository underscores the need for advanced modeling techniques, like LSTMs, to predict prices in volatile markets effectively.
+The comparative analysis and prediction models reveal the stark contrasts between Bitcoin and Apple’s market behaviors. Apple’s stable growth and deep market make it attractive to traditional, risk-averse investors, while Bitcoin’s high volatility and rapid growth appeal to those willing to engage in a high-risk, high-reward environment. This project underscores the need for advanced modeling techniques, like LSTMs, to predict prices in volatile markets effectively. The LSTM model outperformed other methods, highlighting the need for sequential data modeling in volatile financial markets.
+
 
 
 View the presentation here: https://docs.google.com/presentation/d/1c4GekwMa60iV31noQYOEVTvo2hz9lBrOiflla8sDcfU/edit#slide=id.p
